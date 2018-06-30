@@ -45,7 +45,7 @@ defineThreeUniverse(function () {
             url: "https://threeuniverse.org/src/universe_parts/sampleMeshModule.js"
         },
         {
-            position: { x: 542, y: 30, z: -1800 },
+            position: { x: 450, y: 30, z: -1800 },
             description: "Simple cube ground",
             url: "https://ashwithags.github.io/threeuniverse/src/universe_parts/cube.js",
         }, {
